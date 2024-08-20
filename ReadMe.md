@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduando ciência da computação, me aprofundando em back-end.<br>👯 Estou à procura de oportunidades para aprofundar meus conhecimentos e colocar em prática os aprendizados.<br>
+🔭 Graduando ciência da computação, me especializando em desenvolvimento back-end.<br>👯 Estou à procura de oportunidades para aprofundar meus conhecimentos e colocar em prática os aprendizados.<br>
 
 
 # 💻 Tech Stack:
